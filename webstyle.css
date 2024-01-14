@@ -1,0 +1,124 @@
+*{
+    background-color: blanchedalmond;
+}
+.heading{
+    text-align: center;
+    font-family: "Abril Fatface";
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+.colors{
+    box-sizing: border-box;
+    padding: 0 400px;
+    text-align: center;
+    margin: 50px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.colors p{
+font-size:large;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+display:inline-block;
+text-align: center;
+width: 200px;
+height: 200px;
+margin: 0 -4px;
+}
+.colors p:hover{
+    color: transparent;
+}
+.darkred{
+    background-color: darkred;
+    color: blanchedalmond;
+}
+.firebrick{
+    background-color: firebrick;
+    color: blanchedalmond;
+}
+.maroon{
+    background-color: maroon;
+    color: blanchedalmond;
+}
+.green{
+    background-color: green;
+    color: blanchedalmond;
+}
+.darkgreen{
+    background-color: darkgreen;
+    color: blanchedalmond;
+}
+.forestgreen{
+    background-color: forestgreen;
+    color: blanchedalmond;
+}
+.darkblue{
+    background-color: darkblue;
+    color: blanchedalmond;
+}
+.dodgerblue{
+    background-color: dodgerblue;
+    color: blanchedalmond;
+}
+.deepblue{
+    background-color: deepskyblue;
+    color: blanchedalmond;
+}
+.subheading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:30px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+.fonts{
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+}
+.fonts div{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.abril{
+    font-family: 'Abril Fatface';
+}
+.pacifico{
+    font-family: 'Pacifico', cursive;
+}
+.courier{
+    font-family: 'Courier Prime', monospace;
+}
+.normal{
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+
+
+.textstyles h4{
+    font-style: italic;
+}
+textstyles{
+font-size: larger;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+footer h6{
+    font-family: 'Pacifico';
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(11, 124, 82);
+    color: white;
+}
